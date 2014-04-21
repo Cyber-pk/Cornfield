@@ -1,0 +1,4 @@
+This folder contains common project documentation. 
+Here are presented such general issues like development, 
+deployment, programming solutions and etc. 
+Please, don't be lazy to write docs =) 
